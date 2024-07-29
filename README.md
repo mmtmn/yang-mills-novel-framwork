@@ -5,11 +5,7 @@ The Yang-Mills mass gap problem asks whether the fundamental particles in certai
 # Verifications
 
 Field strength tensor verified successfully.
-
 Yang-Mills action verified successfully.
-
 Field strength tensor symmetry verified successfully.
-
 Trivial solution verified successfully.
-
 Dimensional consistency verified successfully.
